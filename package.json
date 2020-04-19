@@ -1,0 +1,28 @@
+{
+  "name": "pdf-renamer",
+  "version": "1.0.0",
+  "description": "Renames a series of PDF files based on some extracted content from each file",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelneff/pdf-renamer.git"
+  },
+  "keywords": [
+    "pdf",
+    "file",
+    "rename"
+  ],
+  "author": "Samuel R Neff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelneff/pdf-renamer/issues"
+  },
+  "homepage": "https://github.com/samuelneff/pdf-renamer#readme",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "pdf2json": "^1.2.0"
+  }
+}
