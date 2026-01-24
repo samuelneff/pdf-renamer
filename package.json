@@ -23,6 +23,6 @@
   "homepage": "https://github.com/samuelneff/pdf-renamer#readme",
   "dependencies": {
     "glob": "^7.1.6",
-    "pdf2json": "^1.2.0"
+    "pdf2json": "^4.0.2"
   }
 }
